@@ -1,0 +1,452 @@
+[
+    {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+        "title": "Andre",
+        "author": "Jesselyn Frankland",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+        "title": "Dark Mirror",
+        "author": "Noni Farmiloe",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+        "title": "Scaramouche",
+        "author": "Cesar Montague",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+        "title": "1984",
+        "author": "George Orwell",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+        "title": "The Silmarillion",
+        "author": "J.R.R. Tolkien",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+        "title": "The Iliad",
+        "author": "Homer",
+        "published_year": true
+    }
+    },
+    {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "published_year": true
+    }
+    }
+]
